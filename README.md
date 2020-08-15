@@ -1,0 +1,2 @@
+# Market order manager
+Market Order Manager is a discord bot and dashboard where you are able to handle the commands of both services. It allows you to customize the bot across the dashboard and give you a simple control management.
