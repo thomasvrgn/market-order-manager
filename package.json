@@ -1,0 +1,12 @@
+{
+  "name": "market-order-manager",
+  "version": "1.0.0",
+  "description": "Market Order Manager is a discord bot and dashboard where you are able to handle the commands of both services. It allows you to customize the bot across the dashboard and give you a simple control management.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": "git@github.com:NessMC/market-order-manager.git",
+  "author": "NessMC <contact@nessmc.fr>",
+  "license": "MIT"
+}
