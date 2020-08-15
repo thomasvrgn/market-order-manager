@@ -8,5 +8,8 @@
   },
   "repository": "git@github.com:NessMC/market-order-manager.git",
   "author": "NessMC <contact@nessmc.fr>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }

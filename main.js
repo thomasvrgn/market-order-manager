@@ -1,22 +1,24 @@
 // Main file
 
+const Log = require('./libs/log')
+
 class Main {
 
   // Service starting methods
 
   static async api () {
-    console.log('API starting...')
-    console.log('API started!')
+    Log.neutral('API starting...')
+    Log.success('API started!\n')
   }
 
   static async service () {
-    console.log('Service starting...')
-    console.log('Service started!')
+    Log.neutral('Service starting...')
+    Log.success('Service started!\n')
   }
 
   static async website () {
-    console.log('Website starting...')
-    console.log('Website started!')
+    Log.neutral('Website starting...')
+    Log.success('Website started!\n')
   }
 
   // Main method
